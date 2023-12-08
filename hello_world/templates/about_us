@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="{% static 'main.css' %}">
+</head>
+
+<body>
+    <div class="navbar">
+        <h1>ABOUT US</h1>
+    </div>
+</body>
+
+</html>
