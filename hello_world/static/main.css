@@ -45,16 +45,8 @@ body {
   }
 
 
-  .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1.4rem 7%;
-    background-color: rgba(201, 230, 230, 0.8);
-    border-bottom: 1px solid #fafafa;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999;
+  .about-us{
+    height: 20px;
+    width: auto;
+    background-color: #2f5196;
   }
